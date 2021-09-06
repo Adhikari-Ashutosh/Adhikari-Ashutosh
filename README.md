@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adhikari-Ashutosh
 - 👀 I’m interested in ... Learning more every second, making NLP chatbots, making CNN stuff. Collaborating with the other great minds!  
 - 🌱 I’m currently learning ... Artificial Intelligence and Computer Science. 
-- "Linux was built over the net. Must have been tough without Github. :P"
+- " Coding is tough if you don't know hashmaps; also people misquote me "-Sun Tzu, Art of War
 
 
 <!---
