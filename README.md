@@ -16,6 +16,10 @@ I'm a passionate tech enthusiast with a background in **Artificial Intelligence*
 ## 🛠️ Technologies & Tools
 <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" />
 
+## 📊 My Activity Distribution
+![image](https://github.com/user-attachments/assets/95caaf5a-9f72-432b-911f-f611285d37e2)
+
+
 ## 🎉 Fun Facts
 - **Favorite Quote:** "The best way to predict the future is to invent it." – Alan Kay
 - **Hobbies:** Outside of coding, I love a good chess match, catching up on sci-fi novels, or trying out new recipes (with varying success)!
